@@ -1,0 +1,4 @@
+This is an example file.
+That you can use!
+To experiment with my terminal-based editor.
+Woohoo!
