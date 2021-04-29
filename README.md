@@ -8,6 +8,12 @@ Currently migrating files, but supports:
 
 - text editing of .txt files ()
 - cursor highlighting
+- copy and paste
+- first, last, next, and previous line cursor functions
+- insertion, removal, and replacement of lines
+- GOTO line number 
+- find & replace word
+- hide and show file view from editor (in console)
 - All commands can be entered lowercase or uppercase and are displayed in the options menu after a user command is processed.
 
 # Startup:
