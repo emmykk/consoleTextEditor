@@ -1,11 +1,13 @@
 # Overview: (WIP)
-Proof-of-concept / prototype terminal text editor built to practice linked data structure concepts.
+Proof-of-concept / prototype terminal text editor.
+
+Supports editing `.txt` files at the moment.
+Can be run using `python3 editor.py`.
 
 Will likely expand functionality in the future to support syntax highlighting and
 live text editing.
 
-Currently migrating files, but supports:
-
+## Current features (not necessarily exhaustive)
 - text editing of .txt files ()
 - cursor highlighting
 - copy and paste
